@@ -196,14 +196,17 @@ tableau-sales-customer-performance-dashboard/
 
 ---
 
+
 # 📸 Dashboard Preview
+
 
 ## Sales Dashboard
 
 Add your Sales Dashboard screenshot here:
 
 ```markdown
-![Sales Dashboard](Screenshots/Sales_Dashboard.png)
+![Sales Dashboard](<img width="411" height="278" alt="Screenshot 2026-11-15 135623" src="https://github.com/user-attachments/assets/be14b236-f4b0-4e7e-8db1-e72dc113e6f6" />
+)
 ```
 
 ## Customer Dashboard
@@ -211,7 +214,8 @@ Add your Sales Dashboard screenshot here:
 Add your Customer Dashboard screenshot here:
 
 ```markdown
-![Customer Dashboard](Screenshots/Customer_Dashboard.png)
+![Customer Dashboard](<img width="411" height="278" alt="Screenshot 2026-11-15 135648" src="https://github.com/user-attachments/assets/a5f97629-f622-4fc8-b4de-b7136d1cd520" />
+)
 ```
 
 ---
